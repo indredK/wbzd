@@ -82,32 +82,8 @@
 - [代码可读性](https://github.com/CyC2018/CS-Notes/blob/master/notes/代码可读性.md)
 - [代码风格规范](https://github.com/CyC2018/CS-Notes/blob/master/notes/代码风格规范.md)
 
-## :memo: 后记
 
-<div align="center">
-	<a href="https://www.nowcoder.com/discuss/137593?from=cyc_github"> 我的面经 </a> / <a href="https://cyc2018.github.io"> 我的简历 </a> / <a href="https://github.com/CyC2018/Markdown-Resume"> 简历模版 </a> / <a href="https://github.com/CyC2018/Job-Recommend"> 内推 </a> / <a href="https://xiaozhuanlan.com/CyC2018"> 专栏 </a> / <a href="assets/QQ2群.png"> QQ 群</a>
-	<br><br>
-    <img width="320px" src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/githubio/公众号二维码-2.png"></img>
-</div>
-
-
-
-### 排版
-
-笔记内容按照 [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines) 进行排版，以保证内容的可读性。
-
-不使用 `![]()` 这种方式来引用图片，而是用 `<img>` 标签。一方面是为了能够控制图片以合适的大小显示，另一方面是因为 [GFM](https://github.github.com/gfm/) 不支持 `<center> ![]() </center>` 这种方法让图片居中显示，只能使用 `<div align="center"> <img src=""/> </div>` 达到居中的效果。
-
-在线排版工具：[Text-Typesetting](https://github.com/CyC2018/Text-Typesetting)。
-
-### License
-
-本仓库的内容不是将网上的资料随意拼凑而来，除了少部分引用书上和技术文档的原文（这部分内容都在末尾的参考链接中加了出处），其余都是我的原创。在您引用本仓库内容或者对内容进行修改演绎时，请署名并以相同方式共享，谢谢。
 
 转载文章请在开头明显处标明该页面地址，公众号等其它转载请联系 zhengyc101@163.com。
 
-Logo：[logomakr](https://logomakr.com/)
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-
-### 致谢
